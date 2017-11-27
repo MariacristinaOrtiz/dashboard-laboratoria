@@ -26,7 +26,7 @@ Se muestra un **sketch**, elaborado en papel, para la herramienta del **dashboar
 
 ## Primera parte
 
-Se muestra una página inicial donde pedirá **"ingresar"**(iniciar sesión) o  crear cuenta (si no esta registrado) para poder acceder a la información privada de laboratoria (dashboard).
+Se muestra una página inicial donde pedirá **"ingresar"**(colocando nombre de usuario o correo institucional y contraseña) o  **"crear cuenta"** (si no esta registrado) para poder acceder a la información privada de laboratoria (dashboard).
 
 ![sketch-uno](https://github.com/MariacristinaOrtiz/dashboard-laboratoria/blob/master/assets/docs/sketch-uno.png)
 
