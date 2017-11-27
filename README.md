@@ -8,9 +8,9 @@
 Crear un **sketch** para la herramienta del **dashboard de Laboratoria**, utilizando los indicadores siguientes:
 
 
-* # de alumnas inscritas.
-* # de alumnas que desertaron.
-* # y % de alumnas que pasan el criterio mínimo de evaluación.
+* N° de alumnas inscritas.
+* N° de alumnas que desertaron.
+* N° y % de alumnas que pasan el criterio mínimo de evaluación.
 * Promedio de notas por sprint.
 * Promedio de notas técnicas.
 * Promedio de notas HSE.
@@ -28,16 +28,16 @@ Se muestra un **sketch**, elaborado en papel, para la herramienta del **dashboar
 
 Se muestra una página inicial donde pedirá **"ingresar"**(iniciar sesión) o  crear cuenta (si no esta registrado) para poder acceder a la información privada de laboratoria (dashboard).
 
-![sketch-uno]()
+![sketch-uno](https://github.com/MariacristinaOrtiz/dashboard-laboratoria/blob/master/assets/docs/sketch-uno.png)
 
 ## Segunda parte
 
 Se muestra la página principal donde figura el **dashboard** en sí, donde figura los indicadores arriba mencionados en gráficas, se muestra un filtro para acceder a la generación y sede deseada. Se visualiza también la **"Comparación de los indicadores de todas las generaciones por sede"**, si hacemos click en el símbolo **"+"** (circulo rojo) se se desplegará mostrando las gráficas del skecth mostrado en la tercera parte.
 
-![sketch-dos]()
+![sketch-dos](https://github.com/MariacristinaOrtiz/dashboard-laboratoria/blob/master/assets/docs/sketch-dos.png)
 
 ## Tercera parte
 
 Se muestra las ventanas que contienen las  graficas de los indicadores (alumnas que pasan el criterio mínimo de evaluación, promedio de notas HSE y promedio de notas técnicas) al hacer click en el símbolo **"+"** (circulo rojo). Dichas ventanas contienen un filtro por sede.
 
-![sketch-tres]()
+![sketch-tres](https://github.com/MariacristinaOrtiz/dashboard-laboratoria/blob/master/assets/docs/sketch-tres.png)
